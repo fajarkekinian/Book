@@ -55,6 +55,14 @@ public class Home extends Activity {
         listCountry.add("Puisi Budha");
         listCountry.add("Puisi Kristen");
         listCountry.add("Puisi Cinta");
+        listCountry.add("Puisi China");
+        listCountry.add("Puisi Budha");
+        listCountry.add("Puisi Kristen");
+        listCountry.add("Puisi China");
+        listCountry.add("Puisi Budha");
+        listCountry.add("Puisi Kristen");
+
+
 
         listFlag = new ArrayList<Integer>();
         listFlag.add(R.drawable.a);
@@ -63,5 +71,12 @@ public class Home extends Activity {
         listFlag.add(R.drawable.d);
         listFlag.add(R.drawable.e);
         listFlag.add(R.drawable.f);
-         }
+        listFlag.add(R.drawable.d);
+        listFlag.add(R.drawable.e);
+        listFlag.add(R.drawable.f);
+        listFlag.add(R.drawable.d);
+        listFlag.add(R.drawable.e);
+        listFlag.add(R.drawable.f);
+
+    }
 }

@@ -9,7 +9,7 @@
         android:id="@+id/gridView1"
         android:layout_width="match_parent"
         android:numColumns="auto_fit"
-        android:horizontalSpacing="10dp"
-        android:verticalSpacing="10dp">
+        android:horizontalSpacing="1dp"
+        android:verticalSpacing="1dp">
     </GridView>
 </LinearLayout>
