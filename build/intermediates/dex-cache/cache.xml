@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f9026c962f2f2c2e36b1d957da0d0304c3b4997a.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_c012b29f77af0f8c15d73b146c89ac86dd2acb47.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f2d001bbb0659fc015592db1a3dc34bc5695dd5c.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_9dee2c14a61571eaa2db13ca53da8126dc24af46.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2a5837c65eb2a3b9397e176396d49d39f51bdaca.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_6a105671160cf51299a8881ebc0fd15166597f1d.jar" />
+    </item>
+    <item
+        jar="/opt/SDK/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_642d200d43e43c01e5b12905c808ee3ebff324bc.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_5e6fd2d9d47d3d1861570f03b83d73296a759989.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_83a55e698d8504846b9d1576ae20a9ed11d5a383.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_5b33a9882590b92cd3ce26dd9525b11e0060dc86.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_d91af88ca7884c3aef330725526606e535ed3f55.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_388b4da2a7161659dcdc95bdadb9bd6989f07c95.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_a329afa5858552c8c400cd7ad71e11ab8c9e293b.jar" />
+    </item>
+    <item
+        jar="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/masfajar/Android-AdvancedWebView/UNY_Project/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_b0c87535459f43f963b1f3916765476f89889a76.jar" />
+    </item>
+
+</items>

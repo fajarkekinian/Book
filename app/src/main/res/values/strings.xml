@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">UNY_Project</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Sejarah Puisi</string>
+    <string name="slide_1_desc">Puisi adalah kasusteraan yang paling tua. Sejak dahulu, berpuisi adalah cara kuno dalam masyarakat, atau pada waktu tersebut di sebut mantra. Dalam masyarakat Jawa terdapat tradisi nembang Jawa, lirik puisi yang dilagukan. Biasanya, nembang didendangkan pada acara-acara sakral dan penting, seperti acara mitoni, siraman, dan pesta desa lainnya.  Selain lirik puisi yang ditembangkan, juga bisa menggunakan kisah cerita, seperti kisah Raden Panji, Dewi Nawang Wulan, Jaka Tingkir, dan lainnya.</string>
+
+    <string name="slide_2_title">Pujangga Baru (1933-1945)</string>
+    <string name="slide_2_desc">Jika pada angkatan balai pustaka penulisan puisi masih banyak dipengaruhi oleh puisi lama, maka pada angkatan Pujangga Baru diciptakan puisi baru, yang melepaskan ikatan-ikatan puisi lama. Sehingga munculnya jenis-jenis puisi baru, yaitu : distichon (2 baris), tersina (3 baris), quartrin (4 baris), quint (5 baris), sextet (6 baris), septima (7 baris), oktaf (8 baris), soneta (14 baris).
+</string>
+
+    <string name="slide_3_title">Angkatan 45 (1945-1953)</string>
+    <string name="slide_3_desc">ika pada periode sebelumnya melakukan pembaharuan terhadap bentuk puisi, pada periode ini dilakukan perubahan menyeluruh. Bentuk puisi soneta, tersina, dan sebagainya tidak dipergunakan lagi.</string>
+
+    <string name="slide_4_title">Periode 1953-1961</string>
+    <string name="slide_4_desc">Jika pada angkatan 45 yang menyuarakan kemerdekaan, semangat perjuangan dan patriotisme, maka pada periode ini membicarakan masalah kemasyarakatan yang menyangkut warna kedaerahan. Sifat revolusioner yang berapi-api, mulai merada. Mulai banyaknya puisi beraliran romantik dan kedaerahan dengan gaya penceritaan balada. Puisi pada periode ini banyak yang mengungkapkan subkultur, suasana muram, masalah sosial, cerita rakyat dan mitos (Atmo Karpo, Paman Ddoblang, dan sebagainya).
+</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
