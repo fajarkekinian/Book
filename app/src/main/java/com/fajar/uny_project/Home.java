@@ -77,6 +77,5 @@ public class Home extends Activity {
         listFlag.add(R.drawable.d);
         listFlag.add(R.drawable.e);
         listFlag.add(R.drawable.f);
-
     }
 }
